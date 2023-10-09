@@ -1,0 +1,2 @@
+class DisasterType < ApplicationRecord
+end
